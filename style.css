@@ -255,17 +255,17 @@ img {
   } */
 }
 .panel.body {
-  background-image: url(img/body.jpg);
+  background-image: url(./img/body.jpg);
 }
 .panel.cardio {
-  background-image: url(img/cardio.jpg);
+  background-image: url(./img/cardio.jpg);
 }
 .panel.zumba {
-  background-image: url(img/zumba.jpg);
+  background-image: url(./img/zumba.jpg);
   background-position: top;
 }
 .panel.yoga {
-  background-image: url(img/yoga.jpg);
+  background-image: url(./img/yoga.jpg);
 }
 
 /* NAVIGATION */
