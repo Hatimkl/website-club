@@ -104,16 +104,16 @@ const textLoad = () => {
   }, 0);
   setTimeout(() => {
     text.textContent = "Fit";
-  }, 3000);
+  }, 2000);
   setTimeout(() => {
     text.textContent = "Strong";
-  }, 7000);
+  }, 4000);
   setTimeout(() => {
     text.textContent = "Flexible";
-  }, 11000);
+  }, 6000);
 };
 textLoad();
-setInterval(textLoad, 15000);
+setInterval(textLoad, 8000);
 
 ///////////////////////////////////////
 
